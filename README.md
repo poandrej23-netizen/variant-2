@@ -4,9 +4,9 @@
 
 ## Стек технологий
 
-Nginx - Reverse proxy, порт 80 
-Flask - Backend приложение 
-PostgreSQL - Основное хранилище данных 
+Nginx - Reverse proxy; 
+Flask - Backend приложение; 
+PostgreSQL - Основное хранилище данных; 
 Redis - Кэширование  
 
 ## Требования
