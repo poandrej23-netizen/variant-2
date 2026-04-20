@@ -24,12 +24,11 @@ cd variant-2
 
 # 2. Создать файл окружения
 cp .env.example .env
-# При необходимости отредактировать пароли в .env
 
 # 3. Запустить стек
 docker compose up -d
 
-# 4. Дождаться запуска (проверить healthchecks)
+# 4. Проверить healthchecks
 docker compose ps
 
 # 5. Протестировать эндпоинты
