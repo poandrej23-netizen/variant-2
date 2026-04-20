@@ -19,7 +19,7 @@ Redis - Кэширование
 
 ```bash
 # 1. Клонировать репозиторий
-git clone <repo-url>
+git clone https://github.com/poandrej23-netizen/variant-2.git
 cd variant-2
 
 # 2. Создать файл окружения
